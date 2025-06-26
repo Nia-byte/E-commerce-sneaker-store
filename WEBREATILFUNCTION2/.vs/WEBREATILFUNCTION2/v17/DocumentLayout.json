@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\queuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\queuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\notificationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\notificationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\addtocartfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\addtocartfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\tablefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\tablefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\filefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\filefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\blobfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\blobfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\addproductfunstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\addproductfunstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|c:\\users\\lab_services_student\\source\\repos\\webreatilfunction2\\webreatilfunction2\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE91AA-B539-4FB7-8057-934C68366B40}|WEBREATILFUNCTION2\\WEBREATILFUNCTION2.csproj|solutionrelative:webreatilfunction2\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\NotificationFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\NotificationFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\NotificationFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\NotificationFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:21:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddToCartFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\AddToCartFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\AddToCartFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\AddToCartFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\AddToCartFunction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:24:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\FileFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\FileFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\FileFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\FileFunction.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAA5AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:18:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\QueueFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\QueueFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\QueueFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\QueueFunction.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:17:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\BlobFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\BlobFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\BlobFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\BlobFunction.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADYAAAA2AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:14:31.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\local.settings.json",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\local.settings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\local.settings.json",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T05:54:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProductFunstion.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\AddProductFunstion.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\AddProductFunstion.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\AddProductFunstion.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\AddProductFunstion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:07:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\TableFunction.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\TableFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\TableFunction.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\TableFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA5AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:42:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\Program.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\Program.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:33:29.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\Function1.cs",
+              "RelativeDocumentMoniker": "WEBREATILFUNCTION2\\Function1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\WEBREATILFUNCTION2\\WEBREATILFUNCTION2\\Function1.cs",
+              "RelativeToolTip": "WEBREATILFUNCTION2\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:41:33.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
